@@ -2,7 +2,7 @@
 **PROJECT : LOAD THE DATA FROM PROSPER**
 **Project on Loan Data from Prosper Dataset**
 
-> This data set contains 113,937 records of loans with 81 variables on each loan, including loan amount, borrower rate, current loan status, borrower income, and so on
+> This data set contains about 113,937 records of loans with 81 variables on each loan, including loan amount, borrower rate, current loan status, borrower income, and so on
 
 **Summary of Findings**
 
